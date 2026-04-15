@@ -1,7 +1,7 @@
 -r requirements.txt
 darglint==1.5.4
 dlint==0.10.3
-flake8==3.8.3
+flake8==3.9.2
 flake8-bugbear==20.1.4
 flake8-return==1.1.2
 pytest==6.0.2
